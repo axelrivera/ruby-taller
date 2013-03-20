@@ -9,4 +9,7 @@ Rio Piedras.
 **Hora:** 7:30 PM a 9:30 PM  
 **Lugar:** Salón A143 - Ciencia de Cómputos - UPR-RP
 
-Visita el la [Página Wiki](https://github.com/riveralabs/ruby-taller/wiki) para más información.
+## Nota
+
+Antes de asistir al taller, debes tener ruby instalado en tu computadora. Visita la sección
+[Instalar Ruby](https://github.com/riveralabs/ruby-taller/wiki/Instalar-Ruby) para más informacion.
